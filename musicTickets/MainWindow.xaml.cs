@@ -23,7 +23,6 @@ namespace musicTickets
     {
         public MainWindow() 
         {
-
             InitializeComponent();
         }
 
